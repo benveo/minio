@@ -39,7 +39,7 @@
     "through2": "^0.6.5",
     "uuid": "^3.1.0",
     "xml": "^1.0.0",
-    "xml2js": "git+https://github.com/benveo/xml2js#ab146ee9c4130c3c40516b02126268ef0573ccda",
+    "xml2js": "git+https://git@github.com/benveo/xml2js.git#8f886eb3c308bb1965ec0d86b105e89ca56a9a51",
     "querystring": "0.2.0"
   },
   "devDependencies": {
